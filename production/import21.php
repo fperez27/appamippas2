@@ -129,6 +129,7 @@ $allowedFileType = ['application/vnd.ms-excel','text/xls','text/xlsx','applicati
                 if(isset($Row[13])) {
                     $centroresponsabilidad = mysqli_real_escape_string($con,$Row[13]);
                 }
+                allmasmasdasd
 
                  $codcc = "";
                 if(isset($Row[14])) {

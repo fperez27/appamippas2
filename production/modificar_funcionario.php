@@ -218,7 +218,7 @@ $titulo = $fecha ? 'Registro de alimentación (' . $fecha  . ')' : 'Registro de 
                                                     </select>
 
 
-                                                 <!-- <option value="<?php  //echo $ss2015apunidad?>"><?php  //echo $unidad?></option>
+                                                 <!-- <option value="<?php  //echo $ss2015 apunidad?>"><?php  //echo $unidad?></option>
                                                   <option value="ADMISION">ADMISION</option>
                                                   <option value="ALCOHOL Y DROGAS">ALCOHOL Y DROGAS</option>
                                                   <option value="ASESORIAS">ASESORIAS</option>
